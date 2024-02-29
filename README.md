@@ -1,9 +1,5 @@
-Hello!
+# Assignment 2 in Algorithms and datastructures
 
-Edit:
-Problem 2 and 4 had incorrectly implemented iterators. This should not be fixed so that we use the proper way of iterating over elements.
-
-The files in this ZIP are the code, the report, visalization (python) and DummyDir directories for Problem 3.
 Problem 3 is pre-set to use the files and multi layer folders within DummyDir. Please use this, or change the path variable in P3 accordingly.
 For the find a node-part of problem 3, make sure that the method findMenu() isn´t commented out. 
 This method takes a string input from the user, searches all subtrees for a node with such a name, using the findNode() method in the PathTree class. 
