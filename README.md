@@ -1,7 +1,7 @@
 # Assignment 2 in Algorithms and datastructures
 
 Problem 3 is pre-set to use the files and multi layer folders within DummyDir. Please use this, or change the path variable in P3 accordingly.
-For the find a node-part of problem 3, make sure that the method findMenu() isn´t commented out. 
+For the find a node-part of problem 3, make sure that the method findMenu() isn´t commented out.
 This method takes a string input from the user, searches all subtrees for a node with such a name, using the findNode() method in the PathTree class. 
 This method returns the node, and if it is a directory, a child can be added to it using another string input from the user. If the node doesn´t exist,
 the program asks the user to try again. If the input for the new child doesn´t contain a dot (.), it creates a directory, otherwise it creates a file type 
